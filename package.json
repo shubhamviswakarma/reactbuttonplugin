@@ -1,5 +1,8 @@
 {
-  "name": "1.0",
+  "name": "@shubhamviswakarma/reactbuttonplugin",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/reactButtonPlugin"
+  },
   "version": "1.0.0",
   "description": "This is for enjected",
   "scripts": {
